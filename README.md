@@ -20,3 +20,11 @@ after the download from GitHub, then follow the steps:
 ```C++
 #include "UserSettings.h" //You can also rename the file but you also need to change the name here in this line!
 ```
+
+### Some Functions:
+
+1. This will return a string value with the value of the variable into the file
+
+```C++
+string value = getValueFromFileVar(string fileName, string varName) // varName must be the discriminator in the file like nickaname=
+```
