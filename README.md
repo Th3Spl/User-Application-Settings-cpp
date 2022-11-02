@@ -11,3 +11,8 @@ so i decided to create it by my own, so here it is!
 ### Languages:
 
 - [x] C++
+
+
+```C++
+cout << "UwU";
+```
