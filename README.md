@@ -12,7 +12,11 @@ so i decided to create it by my own, so here it is!
 
 - [x] C++
 
+### How to use it
+
+Firstable you need to drag the file into your main.cpp folder 
+after the download from GitHub, then follow the steps: 
 
 ```C++
-cout << "UwU";
+#include "UserSettings.h" //You can also rename the file but you also need to change the name here in this line!
 ```
