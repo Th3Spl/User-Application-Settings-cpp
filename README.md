@@ -7,3 +7,7 @@ and i noticed that there was not any good library in c++ for do that
 so i decided to create it by my own, so here it is!
 
 `Keep in mind that is a free open source made by me nothing more!`
+
+### Languages:
+
+- [x] C++
