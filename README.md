@@ -47,3 +47,5 @@ replaceVarFromFile(string fileName, string varName, string newValue)
 Keep in mind that i still need to add a lot of new functions.
 
 ### If you need to contact ne you can do it on discord.
+
+![Life Style](https://i.imgur.com/2Rn7HYe.png)
