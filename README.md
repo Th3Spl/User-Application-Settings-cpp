@@ -26,5 +26,19 @@ after the download from GitHub, then follow the steps:
 1. This will return a string value with the value of the variable into the file
 
 ```C++
+#include <string>
 string value = getValueFromFileVar(string fileName, string varName) //varName must be the discriminator in the file like nickaname=
+```
+2. This will return all the content of the file in order
+
+```C++
+string fullFileText = getFullFileContent(string fileName)
+```
+
+3. This will replace the value of a variable into the file
+
+```C++
+replaceVarFromFile(string fileName, string varName, string newValue) 
+//varName must be the name of the variable into the file like nickname=
+//newValue is the new value that will replace the outdated one
 ```
