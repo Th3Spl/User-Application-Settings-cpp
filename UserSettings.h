@@ -2,7 +2,7 @@
 * Author: Th3Spl
 * Date: 10/2/2022
 * Language: c++
-* GitHub Repo: #
+* GitHub Repo: https://bit.ly/3T2zB2Y
 * Discord: https://bit.ly/3OkuXMT
 * LinkTree: https://linktr.ee/th3spl
 * Purpose: User/Application settings :) kinda useful for game or application with local saving things fully coded in c++
