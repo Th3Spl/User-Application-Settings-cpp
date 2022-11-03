@@ -44,6 +44,6 @@ replaceVarFromFile(string fileName, string varName, string newValue)
 //newValue is the new value that will replace the outdated one
 ```
 
-Keep in mind that i still need to add a lot of new functions
+Keep in mind that i still need to add a lot of new functions.
 
-If you need to contact ne you can do it on discord.
+### If you need to contact ne you can do it on discord.
