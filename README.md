@@ -1,5 +1,7 @@
 # User/Application Settings in c++
 
+###Version 1.2.0
+
 Hello guys i'm Th3Spl and today i am here with a new repository commit 
 some time ago i was developing an app that needed an header for handle
 the user/application local settings (like the c# vs code's function)
