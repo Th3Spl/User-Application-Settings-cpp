@@ -32,6 +32,7 @@ string value = getValueFromFileVar(string fileName, string varName) //varName mu
 2. This will return all the content of the file in order
 
 ```C++
+#include <string> (you don't need to include it all the time)
 string fullFileText = getFullFileContent(string fileName)
 ```
 
