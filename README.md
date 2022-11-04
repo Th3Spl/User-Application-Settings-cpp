@@ -1,6 +1,6 @@
 # User/Application Settings in c++
 
-### Version 1.2.0
+### Version 1.2.1
 
 Hello guys i'm Th3Spl and today i am here with a new repository commit 
 some time ago i was developing an app that needed an header for handle
@@ -45,6 +45,8 @@ replaceVarFromFile(string fileName, string varName, string newValue)
 //varName must be the name of the variable into the file like nickname=
 //newValue is the new value that will replace the outdated one
 ```
+
+`THERE ARE A LOT OF FUNCTION JUST OPEN THE FILE AND READ THE CODE!`
 
 Keep in mind that i still need to add a lot of new functions.
 
